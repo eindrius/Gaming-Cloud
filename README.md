@@ -1,4 +1,4 @@
-# Gaming-Cloud - Ainda em construção.
+# Gaming-Cloud
 
 
 Desafio do bootcamp fullstack para fazer uma cópia do netflix.
